@@ -1,0 +1,6 @@
+:root{
+    --font-family-titulo: 'Poppins', sans-serif;
+    --font-family-paragrafo: 'Open Sans', sans-serif;
+    --Violet: hsl(257, 40%, 49%);
+    --Soft-Magenta: hsl(300, 69%, 71%);
+}
